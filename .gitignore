@@ -1,0 +1,14 @@
+.DS_Store
+
+.pdfdeps
+.pydeps
+
+ru/*.md
+ru/*.pdf
+ru/*.docx
+
+scripts
+
+*.md
+
+format_task.txt
